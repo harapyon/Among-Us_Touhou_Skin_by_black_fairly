@@ -11,4 +11,4 @@ Among Us の東方スキンです。
 ハットの表示名 : LilyBlack
 作者名 : harapyon
 通常 : Lily_Black.png
-梯子 : ファイル名.png
+梯子 : Lily_Black.png
